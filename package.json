@@ -4,6 +4,7 @@
   "description": "- [Screenshots](#screenshots)\r - [Features](#features)\r - [Prerequisites](#prerequisites)\r - [Getting Started](#getting-started)\r - [Folder Structure](#folder-structure)\r - [Technologies Used](#technologies-used)\r - [Live Demo](#live-demo)",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
