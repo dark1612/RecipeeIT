@@ -1,4 +1,4 @@
-# Recipe Sharing Full Stack App (MERN Stack)
+# Recipe Sharing Full Stack App (MERN Stack) 
 
 ## Table of Contents
 
